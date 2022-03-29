@@ -1,0 +1,10 @@
+1,Mpho,1475
+2,Linda,150
+3,Skhalo,5
+4,Kaps,75
+5,Sexy,1600
+6,Sphiwe,200
+7,Locks,0
+8,Skips,0
+9,Kop,0
+10,Lops,5
