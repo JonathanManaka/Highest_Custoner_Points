@@ -9,3 +9,14 @@ C:\Users\Eazzy\Desktop\Prac_Apps\CustomerMVVM\CustomerMVVM\obj\Debug\CustomerMVV
 C:\Users\Eazzy\Desktop\Prac_Apps\CustomerMVVM\CustomerMVVM\obj\Debug\CustomerMVVM.csproj.CoreCompileInputs.cache
 C:\Users\Eazzy\Desktop\Prac_Apps\CustomerMVVM\CustomerMVVM\obj\Debug\CustomerMVVM.exe
 C:\Users\Eazzy\Desktop\Prac_Apps\CustomerMVVM\CustomerMVVM\obj\Debug\CustomerMVVM.pdb
+C:\Users\Eazzy\Project1\CustomerHighestPoints\CustomerMVVM\bin\Debug\CustomerMVVM.exe.config
+C:\Users\Eazzy\Project1\CustomerHighestPoints\CustomerMVVM\bin\Debug\CustomerMVVM.exe
+C:\Users\Eazzy\Project1\CustomerHighestPoints\CustomerMVVM\bin\Debug\CustomerMVVM.pdb
+C:\Users\Eazzy\Project1\CustomerHighestPoints\CustomerMVVM\obj\Debug\CustomerMVVM.csproj.AssemblyReference.cache
+C:\Users\Eazzy\Project1\CustomerHighestPoints\CustomerMVVM\obj\Debug\CustomerMVVM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eazzy\Project1\CustomerHighestPoints\CustomerMVVM\obj\Debug\CustomerMVVM.Form1.resources
+C:\Users\Eazzy\Project1\CustomerHighestPoints\CustomerMVVM\obj\Debug\CustomerMVVM.Properties.Resources.resources
+C:\Users\Eazzy\Project1\CustomerHighestPoints\CustomerMVVM\obj\Debug\CustomerMVVM.csproj.GenerateResource.cache
+C:\Users\Eazzy\Project1\CustomerHighestPoints\CustomerMVVM\obj\Debug\CustomerMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Eazzy\Project1\CustomerHighestPoints\CustomerMVVM\obj\Debug\CustomerMVVM.exe
+C:\Users\Eazzy\Project1\CustomerHighestPoints\CustomerMVVM\obj\Debug\CustomerMVVM.pdb

@@ -30,10 +30,13 @@ namespace CustomerMVVM
 
         private void button1_Click(object sender, EventArgs e)
         {
+           
             id = Convert.ToInt32(textBox1.Text);
             amount = Convert.ToDouble(textBox2.Text);
-            if(customView.checkID(id,amount) == true)
+            //Fetching ID from the File and assigning it to id
+            if (customView.checkID(id,amount) == true)
             {
+                //If the ID found
                 button1.Enabled = false;
 
                 //SHow highest chustomer points
@@ -46,7 +49,7 @@ namespace CustomerMVVM
             }
 
         }
-
+        //Enabling the button again 
         private void button2_Click(object sender, EventArgs e)
         {
             button1.Enabled=true;
